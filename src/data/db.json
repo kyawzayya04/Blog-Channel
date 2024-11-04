@@ -1,0 +1,48 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent JavaScript",
+      "description": "Best JS Book Ever!",
+      "categories": [
+        {
+          "id": "1",
+          "title": "JavaScript"
+        },
+        {
+          "id": "2",
+          "title": "Programming"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Laravel from scratch",
+      "description": "Best PHP Framework Book!",
+      "categories": [
+        "PHP",
+        "Programming",
+        "Laravel"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "React Basic",
+      "description": "Powerful JavaScript Library Book!",
+      "categories": [
+        "React",
+        "Programming",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "0.3040080342457252",
+      "title": "Book Title",
+      "description": "Book Description",
+      "categories": [
+        "React",
+        "JavaScript"
+      ]
+    }
+  ]
+}
